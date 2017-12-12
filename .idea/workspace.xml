@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd182c7-cf89-4e93-ad4e-5232da458f5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/CommentManager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/CommentManager.php" afterPath="$PROJECT_DIR$/models/CommentManager.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,16 +57,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommentManager.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CommentManager.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/CommentManager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="468">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
-                <marker date="1513080310632" expanded="true" signature="212:407" ph="SELECT id, a... comments" />
-                <marker date="1513080310632" expanded="true" signature="212:821" ph="SELECT id, a... comments" />
-                <marker date="1513080310632" expanded="true" signature="613:697" ph="INSERT INTO comments... " />
+                <marker date="1513080499765" expanded="true" signature="212:406" ph="SELECT id, a... comments" />
+                <marker date="1513080499765" expanded="true" signature="212:819" ph="SELECT id, a... comments" />
+                <marker date="1513080499765" expanded="true" signature="612:695" ph="INSERT INTO comments... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Manager.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/Manager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,6 +91,7 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/models/Manager.php" />
         <option value="$PROJECT_DIR$/models/CommentManager.php" />
       </list>
     </option>
@@ -168,12 +179,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513078278747</updated>
-      <workItem from="1513078280068" duration="2039000" />
+      <workItem from="1513078280068" duration="2219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2039000" />
+    <option name="totallyTimeSpent" value="2219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1977" y="0" width="1920" height="1082" extended-state="6" />
@@ -237,13 +248,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/CommentManager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="468">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
-            <marker date="1513080310632" expanded="true" signature="212:407" ph="SELECT id, a... comments" />
-            <marker date="1513080310632" expanded="true" signature="212:821" ph="SELECT id, a... comments" />
-            <marker date="1513080310632" expanded="true" signature="613:697" ph="INSERT INTO comments... " />
+            <marker date="1513080499765" expanded="true" signature="212:406" ph="SELECT id, a... comments" />
+            <marker date="1513080499765" expanded="true" signature="212:819" ph="SELECT id, a... comments" />
+            <marker date="1513080499765" expanded="true" signature="612:695" ph="INSERT INTO comments... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
