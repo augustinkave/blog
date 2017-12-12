@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdd182c7-cf89-4e93-ad4e-5232da458f5a" name="Default" comment="" />
+    <list default="true" id="cdd182c7-cf89-4e93-ad4e-5232da458f5a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/frontend/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frontend.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="frontend.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/frontend.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
@@ -101,6 +104,16 @@
               <folding>
                 <element signature="e#95#118#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/frontend/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,6 +132,7 @@
         <option value="$PROJECT_DIR$/models/CommentManager.php" />
         <option value="$PROJECT_DIR$/models/PostManager.php" />
         <option value="$PROJECT_DIR$/controllers/frontend.php" />
+        <option value="$PROJECT_DIR$/views/frontend/template.php" />
       </list>
     </option>
   </component>
@@ -169,6 +183,12 @@
               <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -210,12 +230,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513078278747</updated>
-      <workItem from="1513078280068" duration="3344000" />
+      <workItem from="1513078280068" duration="3476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3344000" />
+    <option name="totallyTimeSpent" value="3476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1977" y="0" width="1920" height="1082" extended-state="6" />
@@ -317,6 +337,14 @@
           <folding>
             <element signature="e#95#118#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/frontend/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
