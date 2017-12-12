@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd182c7-cf89-4e93-ad4e-5232da458f5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/CommentManager.php" afterPath="$PROJECT_DIR$/models/CommentManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/PostManager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,12 +71,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Manager.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Manager.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/Manager.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostManager.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/PostManager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding>
+                <marker date="1513081045079" expanded="true" signature="184:350" ph="SELECT id, t... posts" />
+                <marker date="1513081045079" expanded="true" signature="184:729" ph="SELECT id, t... posts" />
+                <marker date="1513081045079" expanded="true" signature="485:625" ph="SELECT id, t... posts" />
+                <marker date="1513081045079" expanded="true" signature="485:729" ph="SELECT id, t... posts" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,6 +108,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/models/Manager.php" />
         <option value="$PROJECT_DIR$/models/CommentManager.php" />
+        <option value="$PROJECT_DIR$/models/PostManager.php" />
       </list>
     </option>
   </component>
@@ -179,12 +195,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513078278747</updated>
-      <workItem from="1513078280068" duration="2219000" />
+      <workItem from="1513078280068" duration="2775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2219000" />
+    <option name="totallyTimeSpent" value="2775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1977" y="0" width="1920" height="1082" extended-state="6" />
@@ -263,6 +279,19 @@
         <state relative-caret-position="144">
           <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/PostManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <marker date="1513081045079" expanded="true" signature="184:350" ph="SELECT id, t... posts" />
+            <marker date="1513081045079" expanded="true" signature="184:729" ph="SELECT id, t... posts" />
+            <marker date="1513081045079" expanded="true" signature="485:625" ph="SELECT id, t... posts" />
+            <marker date="1513081045079" expanded="true" signature="485:729" ph="SELECT id, t... posts" />
+          </folding>
         </state>
       </provider>
     </entry>
