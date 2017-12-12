@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd182c7-cf89-4e93-ad4e-5232da458f5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/frontend/listPostsView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/frontend/postView.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/errorView.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -129,11 +127,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="postView.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="postView.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/frontend/postView.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="756">
               <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="errorView.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/errorView.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -156,6 +164,7 @@
         <option value="$PROJECT_DIR$/views/frontend/template.php" />
         <option value="$PROJECT_DIR$/views/frontend/listPostsView.php" />
         <option value="$PROJECT_DIR$/views/frontend/postView.php" />
+        <option value="$PROJECT_DIR$/views/errorView.php" />
       </list>
     </option>
   </component>
@@ -253,12 +262,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513078278747</updated>
-      <workItem from="1513078280068" duration="5246000" />
+      <workItem from="1513078280068" duration="5405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5246000" />
+    <option name="totallyTimeSpent" value="5405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1977" y="0" width="1920" height="1082" extended-state="6" />
@@ -384,6 +393,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/errorView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
           <folding />
         </state>
       </provider>
