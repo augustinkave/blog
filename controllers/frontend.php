@@ -1,7 +1,7 @@
 <?php
 
-require_once '../models/PostManager.php';
-require_once '../models/CommentManager.php';
+require_once 'models/PostManager.php';
+require_once 'models/CommentManager.php';
 
 use models\PostManager;
 use models\CommentManager;
@@ -11,7 +11,7 @@ function listPost() {
     $postManager = new PostManager();
     $posts = $postManager->getPosts();
 
-    require '../views/frontend/listPostsView.php';
+    require 'views/frontend/listPostsView.php';
 }
 
 function post() {
@@ -21,7 +21,7 @@ function post() {
     $post = $postManager->getPost($_GET['id']);
     $comments = $commentManager->getComments($_GET['id']);
 
-    require '../view/frontend/postView.php';
+    require 'views/frontend/postView.php';
 }
 
 function addComment($postId, $author, $comment) {

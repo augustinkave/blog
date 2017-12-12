@@ -40,4 +40,4 @@ while ($comment = $comments->fetch() ) { ?>
 <?php } ?>
 <?php $content = ob_get_clean();
 
-require 'view/frontend/template.php'; ?>
+require 'views/frontend/template.php'; ?>

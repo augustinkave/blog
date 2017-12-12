@@ -6,7 +6,7 @@ ob_start(); ?>
 
 <?php
 
-while ($data = $post->fetch()) { ?>
+while ($data = $posts->fetch()) { ?>
 
     <div class="#">
         <h2>
@@ -23,4 +23,4 @@ $posts->closeCursor();
 
 $content = ob_get_clean();
 
-require 'view/frontend/template.php';
+require 'views/frontend/template.php'; ?>
